@@ -1,2 +1,0 @@
-# pila-manager
-pila + manager
